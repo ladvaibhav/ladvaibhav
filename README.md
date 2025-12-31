@@ -1,25 +1,8 @@
-## Hi there 👋 
-# I'm Vaibhav Lad.
+<H1 align="center">
+  Hi 👋,  I'm Vaibhav Lad.
+</H1>
 
-# 💫 About Me:
 Electronics and Telecommunication Engineer with Honors in Cyber Security, Experienced in backend software development using Java and Spring Boot for building RESTful and database-driven applications. Experienced in working with MySQL and PostgreSQL for data management. Primarily works with Java, with additional programming experience in Python, C, and C++. Passionate about developing clean, scalable, and efficient software systems.
-
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/vaibhav-lad">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" 
-       width="48" 
-       style="border-radius:50%; margin:4px;" 
-       alt="LinkedIn" />
-</a>
-
-<a href="mailto:vaibhavlad2004@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" 
-       width="48" 
-       style="border-radius:50%; margin:4px;" 
-       alt="Email" />
-</a>
-
 
 # 💻 Tech Stack:
 <!-- Circular Tech Stack Icons -->
@@ -48,12 +31,6 @@ Electronics and Telecommunication Engineer with Honors in Cyber Security, Experi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" style="border-radius:50%; margin:4px;" />
 </p>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ladvaibhav&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ladvaibhav&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ladvaibhav&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
