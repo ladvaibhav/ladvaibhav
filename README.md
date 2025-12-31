@@ -4,7 +4,7 @@
 
 Electronics and Telecommunication Engineer with Honors in Cyber Security, Experienced in backend software development using Java and Spring Boot for building RESTful and database-driven applications. Experienced in working with MySQL and PostgreSQL for data management. Primarily works with Java, with additional programming experience in Python, C, and C++. Passionate about developing clean, scalable, and efficient software systems.
 
-# 💻 Tech Stack:
+#  Tech Stack:
 <!-- Circular Tech Stack Icons -->
 <p align="left">
 
